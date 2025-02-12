@@ -12,3 +12,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 6. **Generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/ForestDeer-3376/J9EHDXQT?sharingId=699579B794B0BA61)
 7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/ForestDeer-3376/VDY5DENM?sharingId=699579B794B0BA61)
 8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/ForestDeer-3376/ES765N4P?sharingId=699579B794B0BA61)
+
+## Reflections
+
+Доступно, понятно, информативно!
