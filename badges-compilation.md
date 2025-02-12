@@ -1,46 +1,46 @@
 # My TypeScript Journey: Earned Badges 🏆
 
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg" alt="Get started with TypeScript">
-  <br><strong>Get started with TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg" alt="Declare Variable Types">
-  <br><strong>Declare Variable Types in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-implement-interfaces.svg" alt="Implement Interfaces">
-  <br><strong>Implement Interfaces in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-develop-typed-functions.svg" alt="Develop Typed Functions">
-  <br><strong>Develop Typed Functions in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-instantiate-classes.svg" alt="Declare and Instantiate Classes">
-  <br><strong>Declare and Instantiate Classes in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-generics.svg" alt="Generics">
-  <br><strong>Generics in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-work-external-libraries.svg" alt="Work with External Libraries">
-  <br><strong>Work with External Libraries in TypeScript</strong>
-</p>
-
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-namespaces-organize-code.svg" alt="Organize Code with Namespaces">
-  <br><strong>Organize Code with Namespaces in TypeScript</strong>
-</p>
-
----
+<table align="center">
+  <tr>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg" alt="Get started with TypeScript">
+      <br><strong>Get started with TypeScript</strong>
+    </td>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg" alt="Declare Variable Types">
+      <br><strong>Declare Variable Types</strong>
+    </td>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-implement-interfaces.svg" alt="Implement Interfaces">
+      <br><strong>Implement Interfaces</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-develop-typed-functions.svg" alt="Develop Typed Functions">
+      <br><strong>Develop Typed Functions</strong>
+    </td>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-instantiate-classes.svg" alt="Declare and Instantiate Classes">
+      <br><strong>Declare and Instantiate Classes</strong>
+    </td>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-generics.svg" alt="Generics">
+      <br><strong>Generics</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-work-external-libraries.svg" alt="Work with External Libraries">
+      <br><strong>Work with External Libraries</strong>
+    </td>
+    <td width="250" align="center">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-namespaces-organize-code.svg" alt="Organize Code with Namespaces">
+      <br><strong>Organize Code with Namespaces</strong>
+    </td>
+    <td width="250" align="center"></td> <!-- Пустая ячейка для выравнивания -->
+  </tr>
+</table>
 
 ## 🏅 Badges Overview
 
