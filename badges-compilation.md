@@ -1,6 +1,48 @@
 # My TypeScript Journey: Earned Badges 🏆
 
-## Badges Overview
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg" alt="Get started with TypeScript">
+  <br><strong>Get started with TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg" alt="Declare Variable Types">
+  <br><strong>Declare Variable Types in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-implement-interfaces.svg" alt="Implement Interfaces">
+  <br><strong>Implement Interfaces in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-develop-typed-functions.svg" alt="Develop Typed Functions">
+  <br><strong>Develop Typed Functions in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-instantiate-classes.svg" alt="Declare and Instantiate Classes">
+  <br><strong>Declare and Instantiate Classes in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-generics.svg" alt="Generics">
+  <br><strong>Generics in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-work-external-libraries.svg" alt="Work with External Libraries">
+  <br><strong>Work with External Libraries in TypeScript</strong>
+</p>
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-namespaces-organize-code.svg" alt="Organize Code with Namespaces">
+  <br><strong>Organize Code with Namespaces in TypeScript</strong>
+</p>
+
+---
+
+## 🏅 Badges Overview
 
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
 
@@ -13,6 +55,8 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/ForestDeer-3376/VDY5DENM?sharingId=699579B794B0BA61)
 8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/ForestDeer-3376/ES765N4P?sharingId=699579B794B0BA61)
 
-## Reflections
+---
+
+## 🎯 Reflections
 
 Доступно, понятно, информативно!
